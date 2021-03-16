@@ -7,3 +7,9 @@ main{
     align-items: center;
     flex-direction: column;
 }
+footer{
+display: flex;
+align-items: center;
+flex-direction: column;
+< div id = "footer" >
+}
