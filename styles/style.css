@@ -9,7 +9,12 @@ main{
 }
 footer{
 display: flex;
-align-items: center;
-flex-direction: column;
-< div id = "footer" >
+justify-content: space-between;
+flex-direction: row;
 }
+body{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    height: 99vh;
+    }
